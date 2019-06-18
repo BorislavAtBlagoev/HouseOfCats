@@ -27,7 +27,6 @@ namespace HouseOfCats
             {
                 Console.Write($"{numberOfHumans}, ");
             }
-            Console.ReadLine();
 
         }
 

@@ -9,3 +9,14 @@ D:\University\Разни\HouseOfCats\HouseOfCats\obj\Debug\netcoreapp2.1\HouseOf
 D:\University\Разни\HouseOfCats\HouseOfCats\obj\Debug\netcoreapp2.1\HouseOfCats.AssemblyInfo.cs
 D:\University\Разни\HouseOfCats\HouseOfCats\obj\Debug\netcoreapp2.1\HouseOfCats.dll
 D:\University\Разни\HouseOfCats\HouseOfCats\obj\Debug\netcoreapp2.1\HouseOfCats.pdb
+D:\University\Random\HouseOfCats2\HouseOfCats\bin\Debug\netcoreapp2.1\HouseOfCats.deps.json
+D:\University\Random\HouseOfCats2\HouseOfCats\bin\Debug\netcoreapp2.1\HouseOfCats.runtimeconfig.json
+D:\University\Random\HouseOfCats2\HouseOfCats\bin\Debug\netcoreapp2.1\HouseOfCats.runtimeconfig.dev.json
+D:\University\Random\HouseOfCats2\HouseOfCats\bin\Debug\netcoreapp2.1\HouseOfCats.dll
+D:\University\Random\HouseOfCats2\HouseOfCats\bin\Debug\netcoreapp2.1\HouseOfCats.pdb
+D:\University\Random\HouseOfCats2\HouseOfCats\obj\Debug\netcoreapp2.1\HouseOfCats.csprojAssemblyReference.cache
+D:\University\Random\HouseOfCats2\HouseOfCats\obj\Debug\netcoreapp2.1\HouseOfCats.csproj.CoreCompileInputs.cache
+D:\University\Random\HouseOfCats2\HouseOfCats\obj\Debug\netcoreapp2.1\HouseOfCats.AssemblyInfoInputs.cache
+D:\University\Random\HouseOfCats2\HouseOfCats\obj\Debug\netcoreapp2.1\HouseOfCats.AssemblyInfo.cs
+D:\University\Random\HouseOfCats2\HouseOfCats\obj\Debug\netcoreapp2.1\HouseOfCats.dll
+D:\University\Random\HouseOfCats2\HouseOfCats\obj\Debug\netcoreapp2.1\HouseOfCats.pdb

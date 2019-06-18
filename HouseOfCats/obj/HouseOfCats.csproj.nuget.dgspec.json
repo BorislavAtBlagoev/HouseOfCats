@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\University\\Разни\\HouseOfCats\\HouseOfCats\\HouseOfCats.csproj": {}
+    "D:\\University\\Random\\HouseOfCats2\\HouseOfCats\\HouseOfCats.csproj": {}
   },
   "projects": {
-    "D:\\University\\Разни\\HouseOfCats\\HouseOfCats\\HouseOfCats.csproj": {
+    "D:\\University\\Random\\HouseOfCats2\\HouseOfCats\\HouseOfCats.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\Разни\\HouseOfCats\\HouseOfCats\\HouseOfCats.csproj",
+        "projectUniqueName": "D:\\University\\Random\\HouseOfCats2\\HouseOfCats\\HouseOfCats.csproj",
         "projectName": "HouseOfCats",
-        "projectPath": "D:\\University\\Разни\\HouseOfCats\\HouseOfCats\\HouseOfCats.csproj",
+        "projectPath": "D:\\University\\Random\\HouseOfCats2\\HouseOfCats\\HouseOfCats.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\Разни\\HouseOfCats\\HouseOfCats\\obj\\",
+        "outputPath": "D:\\University\\Random\\HouseOfCats2\\HouseOfCats\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
