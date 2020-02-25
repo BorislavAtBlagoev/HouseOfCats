@@ -8,7 +8,7 @@ namespace HouseOfCats
         static void Main(string[] args)
         {
 
-            //alo new 
+            //alo new asd
             Console.WriteLine("How many legs are there in the house?");
             int legsInHouse = int.Parse(Console.ReadLine());
 
