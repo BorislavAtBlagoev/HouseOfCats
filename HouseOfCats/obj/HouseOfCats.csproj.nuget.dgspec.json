@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\OneDrive\\Desktop\\Нова папка (2)\\HouseOfCats\\HouseOfCats\\HouseOfCats.csproj": {}
+    "C:\\Users\\Acer\\OneDrive\\Desktop\\Нова папка\\HouseOfCats\\HouseOfCats\\HouseOfCats.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\OneDrive\\Desktop\\Нова папка (2)\\HouseOfCats\\HouseOfCats\\HouseOfCats.csproj": {
+    "C:\\Users\\Acer\\OneDrive\\Desktop\\Нова папка\\HouseOfCats\\HouseOfCats\\HouseOfCats.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Desktop\\Нова папка (2)\\HouseOfCats\\HouseOfCats\\HouseOfCats.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Desktop\\Нова папка\\HouseOfCats\\HouseOfCats\\HouseOfCats.csproj",
         "projectName": "HouseOfCats",
-        "projectPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\Нова папка (2)\\HouseOfCats\\HouseOfCats\\HouseOfCats.csproj",
+        "projectPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\Нова папка\\HouseOfCats\\HouseOfCats\\HouseOfCats.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\Нова папка (2)\\HouseOfCats\\HouseOfCats\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\Нова папка\\HouseOfCats\\HouseOfCats\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
